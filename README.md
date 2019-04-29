@@ -9,9 +9,11 @@ EB F1 66 13 05 00 50 E4 <br>
 01 00 00 00 00 00 00 00 <br>
 00 20 00 00 88 41 30 00 <br>
 01 00 20 00 00 00 05 00 <br>
-50 E4 01 00 <br>
+50 E4 01 00 <br><br>
 
+**SCREENSHOT:**<br>
 
+<img src="esp8266_simple_sniffer_screenshot.jpg" />
 
 
 
